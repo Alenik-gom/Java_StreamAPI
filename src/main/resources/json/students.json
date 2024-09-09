@@ -48,5 +48,5 @@
   {"id":47,"surname":"Wilson","age":19,"faculty":"Mathematics","group":"M-2"},
   {"id":48,"surname":"King","age":20,"faculty":"Chemistry","group":"C-3"},
   {"id":49,"surname":"Lopez","age":18,"faculty":"Physics","group":"P-1"},
-  {"id":50,"surname":"Miller","age":19,"faculty":"ComputerScience","group":"C-2"}
+  {"id":50,"surname":"Miller","age":17,"faculty":"ComputerScience","group":"C-2"}
 ]
